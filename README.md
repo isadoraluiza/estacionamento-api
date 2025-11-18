@@ -1,4 +1,4 @@
- Sistema de Estacionamento 
+# Sistema de Estacionamento 
 
 Este projeto é um Sistema de Controle de Estacionamento desenvolvido em Java com Spring Boot.
 Ele permite gerenciar a entrada e saída de veículos, calcular valores conforme o tempo de permanência e registrar diferentes tipos de serviços oferecidos pelo estacionamento (por hora, diária ou mensalista).
